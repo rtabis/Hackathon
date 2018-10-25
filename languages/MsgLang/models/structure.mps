@@ -100,5 +100,30 @@
       <property role="1uS6qo" value="TagLenghtValue" />
     </node>
   </node>
+  <node concept="1TIwiD" id="uVI9uE41au">
+    <property role="EcuMT" value="557241940443140766" />
+    <property role="TrG5h" value="Structure" />
+    <property role="19KtqR" value="true" />
+    <property role="34LRSv" value="structure" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="PrWs8" id="uVI9uE41ax" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="1TJgyi" id="uVI9uE41aD" role="1TKVEl">
+      <property role="IQ2nx" value="557241940443140777" />
+      <property role="TrG5h" value="tag" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="uVI9uE41aG" role="1TKVEl">
+      <property role="IQ2nx" value="557241940443140780" />
+      <property role="TrG5h" value="length" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="uVI9uE41aK" role="1TKVEl">
+      <property role="IQ2nx" value="557241940443140784" />
+      <property role="TrG5h" value="value" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+  </node>
 </model>
 
