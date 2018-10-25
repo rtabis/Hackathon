@@ -15,9 +15,13 @@
   </imports>
   <registry>
     <language id="45753253-84d8-49a8-8c74-5ee559257f87" name="MsgLang">
+      <concept id="8744251291259838855" name="MsgLang.structure.MESSAGE" flags="ng" index="j4JeZ">
+        <child id="8744251291259838876" name="numberOfStructure" index="j4Je$" />
+      </concept>
       <concept id="8744251291259819697" name="MsgLang.structure.MessageStructure" flags="ng" index="j4Ki9">
         <property id="8744251291259819704" name="Presence" index="j4Ki0" />
         <property id="8744251291259819707" name="Format" index="j4Ki3" />
+        <property id="8744251291259819712" name="Lenght" index="j4KjS" />
       </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
@@ -26,10 +30,140 @@
       </concept>
     </language>
   </registry>
-  <node concept="j4Ki9" id="uVI9uE45nl">
-    <property role="TrG5h" value="PDU" />
-    <property role="j4Ki0" value="M" />
-    <property role="j4Ki3" value="V" />
+  <node concept="j4JeZ" id="7_pOzxEiTIW">
+    <property role="TrG5h" value="PERFORM-LOCATION-REQUEST" />
+    <node concept="j4Ki9" id="7_pOzxEiTIX" role="j4Je$">
+      <property role="TrG5h" value="PDU type" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="Value" />
+      <property role="j4KjS" value="1" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTIY" role="j4Je$">
+      <property role="TrG5h" value="TLLI" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="6" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTJ3" role="j4Je$">
+      <property role="TrG5h" value="IMSI" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="5" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTJa" role="j4Je$">
+      <property role="TrG5h" value="DRX Parameters" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="4" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTJj" role="j4Je$">
+      <property role="TrG5h" value="BVCI" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="4" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTJu" role="j4Je$">
+      <property role="TrG5h" value="NSEI" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="4" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTJF" role="j4Je$">
+      <property role="TrG5h" value="Location Type" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTJU" role="j4Je$">
+      <property role="TrG5h" value="Cell Identifier" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="10" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTKb" role="j4Je$">
+      <property role="TrG5h" value="LCS Capability" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTKu" role="j4Je$">
+      <property role="TrG5h" value="LCS Priority" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTKN" role="j4Je$">
+      <property role="TrG5h" value="LCS QoS" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTLa" role="j4Je$">
+      <property role="TrG5h" value="LCS Client Type" />
+      <property role="j4Ki0" value="Conditional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTLz" role="j4Je$">
+      <property role="TrG5h" value="Requested GPS Assistance Data" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTLY" role="j4Je$">
+      <property role="TrG5h" value="IMEI" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="10" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTMr" role="j4Je$">
+      <property role="TrG5h" value="GANSS Location Type" />
+      <property role="j4Ki0" value="Conditional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTMU" role="j4Je$">
+      <property role="TrG5h" value="Requested GANSS Assistance Data" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTNr" role="j4Je$">
+      <property role="TrG5h" value="eDRX Parameters" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTNY" role="j4Je$">
+      <property role="TrG5h" value="Coverage Class" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTOz" role="j4Je$">
+      <property role="TrG5h" value="MS Radio Access Capability" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="7" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTPa" role="j4Je$">
+      <property role="TrG5h" value="MultilaterationTiming Advance" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="4" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTPN" role="j4Je$">
+      <property role="TrG5h" value="MS Sync Accuracy" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="7_pOzxEiTQu" role="j4Je$">
+      <property role="TrG5h" value="BTS Reception Accuracy Level" />
+      <property role="j4Ki0" value="Optional" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="3" />
+    </node>
   </node>
 </model>
 
