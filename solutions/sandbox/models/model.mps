@@ -21,7 +21,7 @@
       <concept id="8744251291259819697" name="MsgLang.structure.MessageStructure" flags="ng" index="j4Ki9">
         <property id="8744251291259819704" name="Presence" index="j4Ki0" />
         <property id="8744251291259819707" name="Format" index="j4Ki3" />
-        <property id="8744251291259819712" name="Lenght" index="j4KjS" />
+        <property id="8744251291259819712" name="MinLength" index="j4KjS" />
       </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
@@ -32,12 +32,6 @@
   </registry>
   <node concept="j4JeZ" id="7_pOzxEiTIW">
     <property role="TrG5h" value="PERFORM-LOCATION-REQUEST" />
-    <node concept="j4Ki9" id="7_pOzxEiTIX" role="j4Je$">
-      <property role="TrG5h" value="PDU type" />
-      <property role="j4Ki0" value="Mandatory" />
-      <property role="j4Ki3" value="Value" />
-      <property role="j4KjS" value="1" />
-    </node>
     <node concept="j4Ki9" id="7_pOzxEiTIY" role="j4Je$">
       <property role="TrG5h" value="TLLI" />
       <property role="j4Ki0" value="Mandatory" />
@@ -163,6 +157,12 @@
       <property role="j4Ki0" value="Optional" />
       <property role="j4Ki3" value="TagLenghtValue" />
       <property role="j4KjS" value="3" />
+    </node>
+    <node concept="j4Ki9" id="xGmduFZEpv" role="j4Je$">
+      <property role="TrG5h" value="IMSI" />
+      <property role="j4Ki0" value="Mandatory" />
+      <property role="j4Ki3" value="TagLenghtValue" />
+      <property role="j4KjS" value="10" />
     </node>
   </node>
 </model>

@@ -6,9 +6,36 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07591bc3-5a32-4d18-a1b1-af0882cdb897" name="Default Changelist" comment="">
+    <list default="true" id="15335d98-0918-4e00-88b7-39291282695a" name="Default Changelist" comment="Editor">
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/EditorAspectDescriptorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/EditorAspectDescriptorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/MessageStructure_EditorBuilder_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/ConceptPresentationAspectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/LanguageConceptSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/LanguageConceptSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/StructureAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/StructureAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/trace.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/MsgLang/models/editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/models/editor.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/models/structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/models/structure.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/editor/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/editor/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/editor/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/structure/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/editor/EditorAspectDescriptorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/editor/MessageStructure_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/editor/MessageStructure_EditorBuilder_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/LanguageConceptSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/LanguageConceptSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/StructureAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/StructureAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/sandbox/classes_gen/sandbox/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/sandbox/classes_gen/sandbox/trace.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/sandbox/models/model.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/sandbox/models/model.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/sandbox/source_gen.caches/sandbox/model/generated" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/sandbox/source_gen.caches/sandbox/model/generated" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,33 +49,13 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="087e8081-93e7-4de0-b306-9e18acd7736f/r:2e15ab4a-02a1-41e7-8eb9-d580350c6363(TempModule087e8081-93e7-4de0-b306-9e18acd7736f/TempModel_90944690868813)">
+            <model ref="0f683d0e-c049-4a97-9316-112169f8a2ce/r:22b1b61f-d4ae-40c5-b7b4-d912905e6610(TempModule0f683d0e-c049-4a97-9316-112169f8a2ce/TempModel_8422300929111)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
               </languages>
               <imports />
-              <registry>
-                <language id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base">
-                  <concept id="1583916890557930028" name="jetbrains.mps.console.base.structure.ConsoleRoot" flags="ng" index="aymSD">
-                    <child id="1583916890557930415" name="history" index="aymYE" />
-                    <child id="1583916890557930417" name="commandHolder" index="aymYO" />
-                    <child id="9025248442620242919" name="cursor" index="1PhJh3" />
-                  </concept>
-                  <concept id="5758176878586720817" name="jetbrains.mps.console.base.structure.CommandHolderRef" flags="ng" index="2_V_lH">
-                    <reference id="5758176878586720818" name="target" index="2_V_lI" />
-                  </concept>
-                  <concept id="351968380916615243" name="jetbrains.mps.console.base.structure.CommandHolder" flags="ng" index="2Clz$F" />
-                  <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
-                </language>
-              </registry>
-              <node concept="aymSD" id="7_pOzxEiHqB">
-                <node concept="3balQm" id="7_pOzxEiHqC" role="aymYE" />
-                <node concept="2Clz$F" id="7_pOzxEiHqD" role="aymYO" />
-                <node concept="2_V_lH" id="7_pOzxEiHqE" role="1PhJh3">
-                  <ref role="2_V_lI" node="7_pOzxEiHqD" resolve="CommandHolder" />
-                </node>
-              </node>
+              <registry />
             </model>
           </tab>
         </TabState>
@@ -69,73 +76,80 @@
     </search_options>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1839537299">
+    <session id="1261558286">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="&lt;no name&gt;[ConceptDeclaration]" value="1" />
+          <entry key="FormatEnum" value="1" />
+          <entry key="MessageStructure" value="1" />
+          <entry key="PresenceEnum" value="1" />
+          <entry key="TextGen" value="2" />
+          <entry key="main" value="1" />
+          <entry key="null" value="1" />
+          <entry key="null_Test" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="MPS_NODE" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1006093102">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="&lt;no name&gt;[ConceptDeclaration]" value="2" />
-          <entry key="&lt;no name&gt;[EditorComponentDeclaration]" value="1" />
-          <entry key="&lt;no name&gt;[EnumerationDataTypeDeclaration]" value="2" />
-          <entry key="&lt;no name&gt;[MESSAGE]" value="1" />
-          <entry key="&lt;no name&gt;[MessageStructure]" value="3" />
-          <entry key="MESSAGE" value="1" />
-          <entry key="TextGen" value="1" />
-          <entry key="main" value="1" />
-          <entry key="null_Editor" value="1" />
+          <entry key="&lt;no name&gt;[ConstrainedDataTypeDeclaration]" value="1" />
+          <entry key="&lt;no name&gt;[MESSAGE]" value="2" />
+          <entry key="&lt;no name&gt;[PrimitiveDataTypeDeclaration]" value="1" />
+          <entry key="?PERFORM-LOCATION-REQUEST?" value="1" />
+          <entry key="CellModel_AbstractLabel" value="1" />
+          <entry key="CellModel_Constant" value="2" />
+          <entry key="EditorCellModel" value="1" />
+          <entry key="MESSAGE" value="3" />
+          <entry key="Structure" value="1" />
+          <entry key="integer" value="1" />
+          <entry key="java" value="3" />
+          <entry key="null_Editor" value="2" />
+          <entry key="null_Test" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="MPS_NODE" value="12" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="MPS_NODE" value="19" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://MsgLang/MsgLang.structure/MessageStructure">
+        <entry file="mps://node://MsgLang/MsgLang.structure/PresenceEnum">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819697" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="mps://node://MsgLang/MsgLang.structure/MESSAGE">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="15" />
+                    <property name="caretX" value="191" />
                     <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a">
-                      <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" />
+                    <cellInfo cellId="property_memberIdentifierPolicy">
+                      <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819719" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -144,7 +158,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -152,7 +166,73 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="mps://node://MsgLang/MsgLang.structure/MessageStructure">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="827" />
+                    <property name="caretXRelative" value="8" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_text">
+                      <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733114944593" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://sandbox/sandbox.model/?PERFORM-LOCATION-REQUEST?">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="543" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_MaxLength">
+                      <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870142" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
             </state>
           </provider>
         </entry>
@@ -164,14 +244,12 @@
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="selectionStart" value="0" />
-                    <property name="hasNonTrivialSelection" value="true" />
-                    <property name="caretX" value="55" />
-                    <property name="selectionEnd" value="6" />
-                    <property name="caretXRelative" value="24" />
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="119" />
+                    <property name="caretXRelative" value="16" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="name">
-                      <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140780" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140777" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -180,7 +258,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -194,97 +272,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://sandbox/sandbox.model/PERFORM-LOCATION-REQUEST">
+        <entry file="mps://node://MsgLang/MsgLang.structure/MESSAGE">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="1320">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="159" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_Presence">
-                      <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870147" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers>
-                  <errorMarker text="5-10" modelText="5" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870147" />
-                  </errorMarker>
-                  <errorMarker text="4-?" modelText="4" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870174" />
-                  </errorMarker>
-                  <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870187" />
-                  </errorMarker>
-                  <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870219" />
-                  </errorMarker>
-                  <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870238" />
-                  </errorMarker>
-                  <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870259" />
-                  </errorMarker>
-                  <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870282" />
-                  </errorMarker>
-                  <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870307" />
-                  </errorMarker>
-                  <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870394" />
-                  </errorMarker>
-                  <errorMarker text="7-?" modelText="7" propertyCell="true" cellId="property_Lenght">
-                    <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870499" />
-                  </errorMarker>
-                </errorMarkers>
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://MsgLang#01/main@generator/main">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="191" />
+                    <property name="caretX" value="15" />
                     <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name">
-                      <node node_reference="r:f65efdb1-7331-4971-b34d-34271d42bea3(main@generator)/8744251291259819686" />
+                    <cellInfo cellId="Constant_cth9w3_d0">
+                      <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115016661" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_dropAttrubuteRule">
-                      <node node_reference="r:f65efdb1-7331-4971-b34d-34271d42bea3(main@generator)/8744251291259819686" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -292,43 +300,7 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://MsgLang/MsgLang.editor/null_Editor">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="47" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Error_nb4xc9_a">
-                      <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/8744251291259870670" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers>
-                  <errorMarker text="" propertyCell="false" cellId="Error_nb4xc9_a">
-                    <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/8744251291259870670" />
-                  </errorMarker>
-                </errorMarkers>
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
+              <node node_ref="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115016661" />
             </state>
           </provider>
         </entry>
@@ -338,37 +310,14 @@
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://MsgLang/MsgLang.structure/PresenceEnum">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="183" />
-                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="383" />
+                    <property name="caretXRelative" value="192" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name">
-                      <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819719" />
+                    <cellInfo cellId="property_memberIdentifierPolicy">
+                      <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819751" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -377,7 +326,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -393,7 +342,6 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MPSBookmarkManager">
@@ -413,13 +361,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2110" />
-    <option name="y" value="70" />
-    <option name="width" value="1400" />
-    <option name="height" value="830" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1364" />
+    <option name="height" value="766" />
   </component>
   <component name="ProjectPluginManager">
     <option name="pluginsState">
@@ -484,6 +429,7 @@
     </navigator>
     <panes>
       <pane id="Favorites" />
+      <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -492,20 +438,156 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d5c431fd-02dd-473d-a657-aa12bc6d0aec" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="45753253-84d8-49a8-8c74-5ee559257f87(MsgLang)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor) in IdeaFile[file://C:/Users/ezkusma/MPSProjects/Hackathon/languages/MsgLang/models/editor.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="45753253-84d8-49a8-8c74-5ee559257f87(MsgLang)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:966258f3-aac5-4640-a15d-bb2f8b18afe1(MsgLang.constraints) in IdeaFile[file://C:/Users/ezkusma/MPSProjects/Hackathon/languages/MsgLang/models/constraints.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d5c431fd-02dd-473d-a657-aa12bc6d0aec" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:bc3f8855-4b3c-4c3e-ad7d-f38d9f41a505(sandbox@tests) in IdeaFile[file://C:/Users/ezkusma/MPSProjects/Hackathon/solutions/sandbox/models/sandbox@tests.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d5c431fd-02dd-473d-a657-aa12bc6d0aec" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="45753253-84d8-49a8-8c74-5ee559257f87(MsgLang)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure) in IdeaFile[file://C:/Users/ezkusma/MPSProjects/Hackathon/languages/MsgLang/models/structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d5c431fd-02dd-473d-a657-aa12bc6d0aec" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model) in IdeaFile[file://C:/Users/ezkusma/MPSProjects/Hackathon/solutions/sandbox/models/model.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="45753253-84d8-49a8-8c74-5ee559257f87(MsgLang)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d5c431fd-02dd-473d-a657-aa12bc6d0aec" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="45753253-84d8-49a8-8c74-5ee559257f87(MsgLang)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor) in IdeaFile[file://C:/Users/ezkusma/MPSProjects/Hackathon/languages/MsgLang/models/editor.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="606957733114944593" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="FileSystem" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -521,20 +603,26 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.mps/modules.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.mps/workspace.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/ConceptPresentationAspectImpl.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/FormatEnum.class</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/LanguageConceptSwitch.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/PresenceEnum.class</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/StructureAspectDescriptor.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/aspectcps-descriptorclasses.mps</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/classes_gen/MsgLang/structure/trace.info</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/models/editor.mps</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/models/structure.mps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/generated</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen.caches/MsgLang/structure/generated</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/ConceptPresentationAspectImpl.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/FormatEnum.java</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/LanguageConceptSwitch.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/PresenceEnum.java</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/StructureAspectDescriptor.java</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/aspectcps-descriptorclasses.mps</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/languages/MsgLang/source_gen/MsgLang/structure/trace.info</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/Solution/models/Sand.mps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/models/model.mps</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -542,17 +630,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/classes_gen/sandbox/model/trace.info</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/classes_gen/sandbox/trace.info</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/models/model.mps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/models/sandbox@tests.mps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/sandbox.msd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/source_gen.caches/sandbox/dependencies</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/source_gen.caches/sandbox/generated</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/source_gen.caches/sandbox/model/dependencies</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/source_gen.caches/sandbox/model/generated</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/source_gen/sandbox/model/trace.info</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/solutions/sandbox/source_gen/sandbox/trace.info</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -654,23 +731,23 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tests in 'Solution.Sand'" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
+    <configuration name="All Tests in Project" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
       <myJUnitSettings>
         <MyState>
-          <option name="myModelRef" value="r:29f61525-3bc7-4e7d-8d7b-816daa217a15(Solution.Sand)" />
-          <option name="myModuleRef" value="efd81b63-57de-484b-915b-0d8c7c6b8a51(Solution)" />
+          <option name="myModelRef" />
+          <option name="myModuleRef" />
           <option name="myInProcess" value="false" />
           <option name="myReuseCaches" value="true" />
           <option name="myOverrideCachesLocation" value="false" />
           <option name="myDebug" value="false" />
-          <option name="myCachesPath" value="C:\Users\eraftab\AppData\Local\Temp\mps_test_dir0" />
+          <option name="myCachesPath" value="C:\Users\erafbak\AppData\Local\Temp\mps_test_dir0" />
           <option name="myTestCases">
             <list />
           </option>
           <option name="myTestMethods">
             <list />
           </option>
-          <option name="myRunType" value="2" />
+          <option name="myRunType" value="0" />
         </MyState>
       </myJUnitSettings>
       <myJavaRunParameters>
@@ -681,7 +758,7 @@
               <option name="programParameters" />
               <option name="useAlternativeJre" value="false" />
               <option name="vmOptions" />
-              <option name="workingDirectory" value="C:\MPS 2018.2" />
+              <option name="workingDirectory" value="C:\Program Files\JetBrains\MPS 2018.2" />
             </JavaRunParameters>
           </option>
         </MyState>
@@ -692,7 +769,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit Tests.Tests in 'Solution.Sand'" />
+        <item itemvalue="JUnit Tests.All Tests in Project" />
       </list>
     </recent_temporary>
   </component>
@@ -700,9 +777,10 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20476772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26918977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -711,24 +789,24 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Model Checker" order="7" />
-      <window_info anchor="bottom" id="Console" order="8" />
-      <window_info anchor="bottom" id="Bookmarks" order="9" />
-      <window_info anchor="bottom" id="Migration" order="10" />
-      <window_info anchor="bottom" id="Menu Trace" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50061125" side_tool="true" weight="0.32896176" />
-      <window_info anchor="bottom" id="Classpath Explorer" order="14" />
-      <window_info anchor="bottom" id="Usages" order="15" />
-      <window_info anchor="bottom" id="Node Explorer" order="16" />
-      <window_info anchor="bottom" id="Module Dependencies" order="17" />
-      <window_info anchor="bottom" id="Version Control" order="18" weight="0.32896176" />
-      <window_info anchor="bottom" id="Generation Tracer" order="19" />
-      <window_info anchor="bottom" id="Cell Explorer" order="20" />
-      <window_info anchor="bottom" id="Messages" order="21" sideWeight="0.49938875" visible="true" weight="0.32896176" />
-      <window_info anchor="bottom" id="Typechecker State" order="22" />
-      <window_info anchor="bottom" id="RefactoringView" order="23" weight="0.32896176" />
-      <window_info anchor="bottom" id="Inspector" order="24" side_tool="true" />
+      <window_info anchor="bottom" id="Model Checker" order="7" weight="0.32838038" />
+      <window_info anchor="bottom" id="Bookmarks" order="8" />
+      <window_info anchor="bottom" id="Migration" order="9" />
+      <window_info anchor="bottom" id="Menu Trace" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.25608465" />
+      <window_info anchor="bottom" id="Classpath Explorer" order="13" />
+      <window_info anchor="bottom" id="Usages" order="14" />
+      <window_info anchor="bottom" id="Node Explorer" order="15" />
+      <window_info anchor="bottom" id="Module Dependencies" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" sideWeight="0.49848714" weight="0.33135214" />
+      <window_info anchor="bottom" id="Generation Tracer" order="18" />
+      <window_info anchor="bottom" id="Cell Explorer" order="19" />
+      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.49946696" visible="true" weight="0.25608465" />
+      <window_info anchor="bottom" id="Typechecker State" order="21" />
+      <window_info anchor="bottom" id="Console" order="22" />
+      <window_info anchor="bottom" id="RefactoringView" order="23" weight="0.32980973" />
+      <window_info active="true" anchor="bottom" id="Inspector" order="24" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.25608465" />
       <window_info anchor="bottom" id="Dependencies Viewer" order="25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -738,6 +816,43 @@
       <window_info anchor="right" id="Supertypes" order="5" />
       <window_info anchor="right" id="Context Actions" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Model Checker" order="7" weight="0.32980973" />
+      <window_info anchor="bottom" id="Bookmarks" order="8" />
+      <window_info anchor="bottom" id="Migration" order="9" />
+      <window_info anchor="bottom" id="Menu Trace" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.33135214" />
+      <window_info anchor="bottom" id="Classpath Explorer" order="13" />
+      <window_info anchor="bottom" id="Usages" order="14" />
+      <window_info anchor="bottom" id="Node Explorer" order="15" />
+      <window_info anchor="bottom" id="Module Dependencies" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" sideWeight="0.49848714" visible="true" weight="0.33135214" />
+      <window_info anchor="bottom" id="Generation Tracer" order="18" />
+      <window_info anchor="bottom" id="Cell Explorer" order="19" />
+      <window_info anchor="bottom" id="Messages" order="20" weight="0.32980973" />
+      <window_info anchor="bottom" id="Typechecker State" order="21" />
+      <window_info anchor="bottom" id="Console" order="22" />
+      <window_info anchor="bottom" id="RefactoringView" order="23" weight="0.32980973" />
+      <window_info anchor="bottom" id="Inspector" order="24" side_tool="true" />
+      <window_info anchor="bottom" id="Dependencies Viewer" order="25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Class Hierarchy" order="3" />
+      <window_info anchor="right" id="Typesystem Trace" order="4" />
+      <window_info anchor="right" id="Supertypes" order="5" />
+      <window_info anchor="right" id="Context Actions" order="6" />
+    </layout-to-restore>
   </component>
   <component name="UsagesViewTool">
     <version id="1" />
@@ -749,204 +864,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Editor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editor" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://Solution/Solution.Sand/&lt;no name&gt;[MessageStructure]" />
-    <entry file="mps://node://Solution/Solution.Sand/PERFORM-LOCATION-REQUEST" />
-    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819697" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[EnumerationDataTypeDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="183" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819719" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://MsgLang/MsgLang.structure/FormatEnum">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Solution/Solution.Sand/&lt;no name&gt;[MESSAGE]" />
-    <entry file="mps://node://MsgLang/MsgLang.structure/Structure">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="selectionStart" value="0" />
-                <property name="hasNonTrivialSelection" value="true" />
-                <property name="caretX" value="55" />
-                <property name="selectionEnd" value="6" />
-                <property name="caretXRelative" value="24" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name">
-                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140780" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140766" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://MsgLang/MsgLang.editor/&lt;no name&gt;[EditorComponentDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://sandbox/sandbox.model/PERFORM-LOCATION-REQUEST">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="1320">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="159" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_Presence">
-                  <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870147" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="5-10" modelText="5" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870147" />
-              </errorMarker>
-              <errorMarker text="4-?" modelText="4" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870174" />
-              </errorMarker>
-              <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870187" />
-              </errorMarker>
-              <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870219" />
-              </errorMarker>
-              <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870238" />
-              </errorMarker>
-              <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870259" />
-              </errorMarker>
-              <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870282" />
-              </errorMarker>
-              <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870307" />
-              </errorMarker>
-              <errorMarker text="3-?" modelText="3" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870394" />
-              </errorMarker>
-              <errorMarker text="7-?" modelText="7" propertyCell="true" cellId="property_Lenght">
-                <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870499" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://sandbox/sandbox/null" />
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]" />
     <entry file="mps://node://MsgLang#01/main@generator/main">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
@@ -970,7 +897,38 @@
             </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:f65efdb1-7331-4971-b34d-34271d42bea3(main@generator)/8744251291259819686" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.core/jetbrains.mps.lang.core.structure/integer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="175" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)/1082983657062" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)/1082983657062" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -988,24 +946,462 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="47" />
-                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="379" />
+                <property name="caretXRelative" value="48" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Error_nb4xc9_a">
-                  <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/8744251291259870670" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733114944965" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870307" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.editor/null_Editor">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
             <errorMarkers>
               <errorMarker text="" propertyCell="false" cellId="Error_nb4xc9_a">
-                <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/8744251291259870670" />
+                <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115016662" />
               </errorMarker>
             </errorMarkers>
             <transactionalProperties />
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.editor/null_Editor">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellId="Error_nb4xc9_a">
+                <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115016662" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://sandbox/sandbox.model/&lt;no name&gt;[MESSAGE]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/Structure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="119" />
+                <property name="caretXRelative" value="16" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140777" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140766" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://sandbox/sandbox@tests/null_Test">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="95" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_testCaseName">
+                  <node node_reference="r:bc3f8855-4b3c-4c3e-ad7d-f38d9f41a505(sandbox@tests)/557241940443140848" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_testCaseName">
+                <node node_reference="r:bc3f8855-4b3c-4c3e-ad7d-f38d9f41a505(sandbox@tests)/557241940443140848" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:bc3f8855-4b3c-4c3e-ad7d-f38d9f41a505(sandbox@tests)/557241940443140848" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/Range">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="emptyRefPlaceHolder">
+                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059614" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059614" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConstrainedDataTypeDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="183" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_constraint">
+                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059636" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_constraint">
+                <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059636" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059636" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[PrimitiveDataTypeDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="79" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name">
+                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059638" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="name">
+                <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059638" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819712" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059638" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="79" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name">
+                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059638" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="name">
+                <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059638" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059638" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115059638" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/FormatEnum">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="383" />
+                <property name="caretXRelative" value="192" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_memberIdentifierPolicy">
+                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819751" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/PresenceEnum">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="191" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_memberIdentifierPolicy">
+                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819719" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1026,8 +1422,8 @@
                 <property name="caretX" value="15" />
                 <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a">
-                  <node node_reference="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" />
+                <cellInfo cellId="Constant_cth9w3_d0">
+                  <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115016661" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1036,7 +1432,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1044,7 +1440,166 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855" />
+          <node node_ref="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115016661" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.editor/jetbrains.mps.lang.editor.structure/EditorCellModel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="271" />
+                <property name="caretXRelative" value="120" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1073389214265" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1073389214265" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1073389214265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.editor/jetbrains.mps.lang.editor.structure/CellModel_AbstractLabel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="503" />
+                <property name="caretXRelative" value="72" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1079353555532" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1079353555532" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1079353555532" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.editor/jetbrains.mps.lang.editor.structure/CellModel_Constant">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="327" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1073389577006" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1073389577006" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1073389577006" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://sandbox/sandbox.model/?PERFORM-LOCATION-REQUEST?">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="543" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_MaxLength">
+                  <node node_reference="r:f5f87fd4-67c1-4a5e-bd63-fc28c0ab71c8(sandbox.model)/8744251291259870142" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MsgLang/MsgLang.structure/MessageStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="827" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_text">
+                  <node node_reference="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733115059952" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:b42a3e1e-d929-4cf2-bb21-dd56b290076b(MsgLang.editor)/606957733114944593" />
         </state>
       </provider>
     </entry>

@@ -56,7 +56,7 @@
   <node concept="1TIwiD" id="7_pOzxEiHqL">
     <property role="EcuMT" value="8744251291259819697" />
     <property role="TrG5h" value="MessageStructure" />
-    <property role="34LRSv" value="Message" />
+    <property role="34LRSv" value="Message Structure" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="7_pOzxEiHqM" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
@@ -73,8 +73,20 @@
     </node>
     <node concept="1TJgyi" id="7_pOzxEiHr0" role="1TKVEl">
       <property role="IQ2nx" value="8744251291259819712" />
-      <property role="TrG5h" value="Lenght" />
+      <property role="TrG5h" value="MinLength" />
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="xGmduFZXQR" role="1TKVEl">
+      <property role="IQ2nx" value="606957733115059639" />
+      <property role="TrG5h" value="MaxLength" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyj" id="xGmduFZia7" role="1TKVEi">
+      <property role="IQ2ns" value="606957733114880647" />
+      <property role="20lmBu" value="aggregation" />
+      <property role="20lbJX" value="0..n" />
+      <property role="20kJfa" value="Structures" />
+      <ref role="20lvS9" node="uVI9uE41au" resolve="Structure" />
     </node>
   </node>
   <node concept="AxPO7" id="7_pOzxEiHr7">
