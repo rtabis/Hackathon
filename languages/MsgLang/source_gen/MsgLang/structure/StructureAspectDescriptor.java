@@ -12,6 +12,7 @@ import org.jetbrains.mps.openapi.language.SAbstractConcept;
 import jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2;
 
 public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
+  /*package*/ final ConceptDescriptor myConceptField = createDescriptorForField();
   /*package*/ final ConceptDescriptor myConceptMESSAGE = createDescriptorForMESSAGE();
   /*package*/ final ConceptDescriptor myConceptMessageStructure = createDescriptorForMessageStructure();
   /*package*/ final ConceptDescriptor myConceptStructure = createDescriptorForStructure();
@@ -23,13 +24,15 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
 
   @Override
   public Collection<ConceptDescriptor> getDescriptors() {
-    return Arrays.asList(myConceptMESSAGE, myConceptMessageStructure, myConceptStructure);
+    return Arrays.asList(myConceptField, myConceptMESSAGE, myConceptMessageStructure, myConceptStructure);
   }
 
   @Override
   @Nullable
   public ConceptDescriptor getDescriptor(SConceptId id) {
     switch (myIndexSwitch.index(id)) {
+      case LanguageConceptSwitch.Field:
+        return myConceptField;
       case LanguageConceptSwitch.MESSAGE:
         return myConceptMESSAGE;
       case LanguageConceptSwitch.MessageStructure:
@@ -45,6 +48,16 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     return myIndexSwitch.index(c);
   }
 
+  private static ConceptDescriptor createDescriptorForField() {
+    ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MsgLang", "Field", 0x4575325384d849a8L, 0x8c745ee559257f87L, 0x86c58d7ac0e21bfL);
+    b.class_(false, false, false);
+    b.origin("r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/606957733115994559");
+    b.version(2);
+    b.prop("Length", 0x86c58d7ac0e21c3L, "606957733115994563");
+    b.prop("Value", 0x86c58d7ac0e21c6L, "606957733115994566");
+    b.alias("field");
+    return b.create();
+  }
   private static ConceptDescriptor createDescriptorForMESSAGE() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MsgLang", "MESSAGE", 0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7959d2386a4b2187L);
     b.class_(false, false, true);
@@ -52,6 +65,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.origin("r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855");
     b.version(2);
     b.aggregate("numberOfStructure", 0x7959d2386a4b219cL).target(0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7959d2386a4ad6b1L).optional(false).ordered(true).multiple(true).origin("8744251291259838876").done();
+    b.aggregate("structureContent", 0x86c58d7ac126b5eL).target(0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7bbb897aa10129eL).optional(true).ordered(true).multiple(true).origin("606957733116275550").done();
     b.alias("msg");
     return b.create();
   }
@@ -71,13 +85,14 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   }
   private static ConceptDescriptor createDescriptorForStructure() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MsgLang", "Structure", 0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7bbb897aa10129eL);
-    b.class_(false, false, true);
+    b.class_(false, false, false);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140766");
     b.version(2);
-    b.prop("tag", 0x7bbb897aa1012a9L, "557241940443140777");
-    b.prop("length", 0x7bbb897aa1012acL, "557241940443140780");
-    b.prop("value", 0x7bbb897aa1012b0L, "557241940443140784");
+    b.associate("messageStructure", 0x86c58d7ac11ea9cL).target(0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7959d2386a4ad6b1L).optional(false).origin("606957733116242588").done();
+    b.aggregate("Tag", 0x86c58d7ac0e21d1L).target(0x4575325384d849a8L, 0x8c745ee559257f87L, 0x86c58d7ac0e21bfL).optional(true).ordered(true).multiple(false).origin("606957733115994577").done();
+    b.aggregate("Length", 0x86c58d7ac0e21d6L).target(0x4575325384d849a8L, 0x8c745ee559257f87L, 0x86c58d7ac0e21bfL).optional(true).ordered(true).multiple(false).origin("606957733115994582").done();
+    b.aggregate("Value", 0x86c58d7ac0e21ddL).target(0x4575325384d849a8L, 0x8c745ee559257f87L, 0x86c58d7ac0e21bfL).optional(true).ordered(true).multiple(false).origin("606957733115994589").done();
     b.alias("structure");
     return b.create();
   }

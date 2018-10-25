@@ -17,11 +17,22 @@
     <language id="45753253-84d8-49a8-8c74-5ee559257f87" name="MsgLang">
       <concept id="8744251291259838855" name="MsgLang.structure.MESSAGE" flags="ng" index="j4JeZ">
         <child id="8744251291259838876" name="numberOfStructure" index="j4Je$" />
+        <child id="606957733116275550" name="structureContent" index="2$vze9" />
       </concept>
       <concept id="8744251291259819697" name="MsgLang.structure.MessageStructure" flags="ng" index="j4Ki9">
         <property id="8744251291259819704" name="Presence" index="j4Ki0" />
         <property id="8744251291259819707" name="Format" index="j4Ki3" />
         <property id="8744251291259819712" name="MinLength" index="j4KjS" />
+      </concept>
+      <concept id="606957733115994559" name="MsgLang.structure.Field" flags="ng" index="2$oB_C">
+        <property id="606957733115994566" name="Value" index="2$oB$h" />
+        <property id="606957733115994563" name="Length" index="2$oB$k" />
+      </concept>
+      <concept id="557241940443140766" name="MsgLang.structure.Structure" flags="ng" index="2HEUC9">
+        <reference id="606957733116242588" name="messageStructure" index="2$vr9b" />
+        <child id="606957733115994582" name="Length" index="2$oB$1" />
+        <child id="606957733115994577" name="Tag" index="2$oB$6" />
+        <child id="606957733115994589" name="Value" index="2$oB$a" />
       </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
@@ -32,6 +43,36 @@
   </registry>
   <node concept="j4JeZ" id="7_pOzxEiTIW">
     <property role="TrG5h" value="PERFORM-LOCATION-REQUEST" />
+    <node concept="2HEUC9" id="xGmduG4Otl" role="2$vze9">
+      <ref role="2$vr9b" node="7_pOzxEiTQu" resolve="BTS Reception Accuracy Level" />
+      <node concept="2$oB_C" id="xGmduG4Otr" role="2$oB$1">
+        <property role="2$oB$k" value="1" />
+        <property role="2$oB$h" value="4" />
+      </node>
+      <node concept="2$oB_C" id="xGmduG4O_6" role="2$oB$a">
+        <property role="2$oB$k" value="4" />
+        <property role="2$oB$h" value="121" />
+      </node>
+      <node concept="2$oB_C" id="xGmduG4Vm0" role="2$oB$6">
+        <property role="2$oB$k" value="1" />
+        <property role="2$oB$h" value="8" />
+      </node>
+    </node>
+    <node concept="2HEUC9" id="xGmduG5mdk" role="2$vze9">
+      <ref role="2$vr9b" node="7_pOzxEiTJ3" resolve="IMSI" />
+      <node concept="2$oB_C" id="xGmduG5L_M" role="2$oB$a">
+        <property role="2$oB$k" value="16" />
+        <property role="2$oB$h" value="312314151" />
+      </node>
+      <node concept="2$oB_C" id="xGmduG5L_P" role="2$oB$6">
+        <property role="2$oB$k" value="1" />
+        <property role="2$oB$h" value="8" />
+      </node>
+      <node concept="2$oB_C" id="xGmduG5L_S" role="2$oB$1">
+        <property role="2$oB$k" value="1" />
+        <property role="2$oB$h" value="16" />
+      </node>
+    </node>
     <node concept="j4Ki9" id="7_pOzxEiTIY" role="j4Je$">
       <property role="TrG5h" value="TLLI" />
       <property role="j4Ki0" value="Mandatory" />
