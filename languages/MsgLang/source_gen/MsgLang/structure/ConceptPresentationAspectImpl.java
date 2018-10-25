@@ -9,6 +9,7 @@ import org.jetbrains.mps.openapi.language.SAbstractConcept;
 import jetbrains.mps.smodel.runtime.ConceptPresentationBuilder;
 
 public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase {
+  private ConceptPresentation props_MESSAGE;
   private ConceptPresentation props_MessageStructure;
   private ConceptPresentation props_Structure;
 
@@ -17,6 +18,14 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
   public ConceptPresentation getDescriptor(SAbstractConcept c) {
     StructureAspectDescriptor structureDescriptor = (StructureAspectDescriptor) myLanguageRuntime.getAspect(jetbrains.mps.smodel.runtime.StructureAspectDescriptor.class);
     switch (structureDescriptor.internalIndex(c)) {
+      case LanguageConceptSwitch.MESSAGE:
+        if (props_MESSAGE == null) {
+          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
+          cpb.shortDesc("Dupa");
+          cpb.presentationByName();
+          props_MESSAGE = cpb.create();
+        }
+        return props_MESSAGE;
       case LanguageConceptSwitch.MessageStructure:
         if (props_MessageStructure == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();

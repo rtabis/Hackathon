@@ -7,8 +7,8 @@ import jetbrains.mps.internal.collections.runtime.ListSequence;
 import java.util.LinkedList;
 
 public enum FormatEnum {
-  Value("Value", "V"),
-  TagLenghtValue("TagLenghtValue", "TLV");
+  V("V", "Value"),
+  TLV("TLV", "TagLenghtValue");
 
   private final String myName;
   public String getName() {
@@ -27,8 +27,8 @@ public enum FormatEnum {
   }
   public static List<FormatEnum> getConstants() {
     List<FormatEnum> list = ListSequence.fromList(new LinkedList<FormatEnum>());
-    ListSequence.fromList(list).addElement(FormatEnum.Value);
-    ListSequence.fromList(list).addElement(FormatEnum.TagLenghtValue);
+    ListSequence.fromList(list).addElement(FormatEnum.V);
+    ListSequence.fromList(list).addElement(FormatEnum.TLV);
     return list;
   }
   public static FormatEnum getDefault() {
@@ -38,11 +38,11 @@ public enum FormatEnum {
     if (value == null) {
       return FormatEnum.getDefault();
     }
-    if (value.equals(FormatEnum.Value.getValueAsString())) {
-      return FormatEnum.Value;
+    if (value.equals(FormatEnum.V.getValueAsString())) {
+      return FormatEnum.V;
     }
-    if (value.equals(FormatEnum.TagLenghtValue.getValueAsString())) {
-      return FormatEnum.TagLenghtValue;
+    if (value.equals(FormatEnum.TLV.getValueAsString())) {
+      return FormatEnum.TLV;
     }
     return FormatEnum.getDefault();
   }

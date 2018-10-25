@@ -22,7 +22,9 @@
       </concept>
       <concept id="1169125787135" name="jetbrains.mps.lang.structure.structure.AbstractConceptDeclaration" flags="ig" index="PkWjJ">
         <property id="6714410169261853888" name="conceptId" index="EcuMT" />
+        <property id="4628067390765907488" name="conceptShortDescription" index="R4oN_" />
         <property id="5092175715804935370" name="conceptAlias" index="34LRSv" />
+        <child id="1071489727083" name="linkDeclaration" index="1TKVEi" />
         <child id="1071489727084" name="propertyDeclaration" index="1TKVEl" />
       </concept>
       <concept id="1169127622168" name="jetbrains.mps.lang.structure.structure.InterfaceConceptReference" flags="ig" index="PrWs8">
@@ -37,6 +39,13 @@
         <property id="241647608299431129" name="propertyId" index="IQ2nx" />
         <reference id="1082985295845" name="dataType" index="AX2Wp" />
       </concept>
+      <concept id="1071489288298" name="jetbrains.mps.lang.structure.structure.LinkDeclaration" flags="ig" index="1TJgyj">
+        <property id="1071599776563" name="role" index="20kJfa" />
+        <property id="1071599893252" name="sourceCardinality" index="20lbJX" />
+        <property id="1071599937831" name="metaClass" index="20lmBu" />
+        <property id="241647608299431140" name="linkId" index="IQ2ns" />
+        <reference id="1071599976176" name="target" index="20lvS9" />
+      </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
@@ -47,7 +56,6 @@
   <node concept="1TIwiD" id="7_pOzxEiHqL">
     <property role="EcuMT" value="8744251291259819697" />
     <property role="TrG5h" value="MessageStructure" />
-    <property role="19KtqR" value="true" />
     <property role="34LRSv" value="Message" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="7_pOzxEiHqM" role="PzmwI">
@@ -61,7 +69,7 @@
     <node concept="1TJgyi" id="7_pOzxEiHqV" role="1TKVEl">
       <property role="IQ2nx" value="8744251291259819707" />
       <property role="TrG5h" value="Format" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+      <ref role="AX2Wp" node="7_pOzxEiHrB" resolve="FormatEnum" />
     </node>
     <node concept="1TJgyi" id="7_pOzxEiHr0" role="1TKVEl">
       <property role="IQ2nx" value="8744251291259819712" />
@@ -75,16 +83,16 @@
     <property role="PDuV0" value="true" />
     <ref role="M4eZT" to="tpck:fKAOsGN" resolve="string" />
     <node concept="M4N5e" id="7_pOzxEiHr8" role="M5hS2">
-      <property role="1uS6qv" value="M" />
-      <property role="1uS6qo" value="Mandatory" />
+      <property role="1uS6qv" value="Mandatory" />
+      <property role="1uS6qo" value="M" />
     </node>
     <node concept="M4N5e" id="7_pOzxEiHr9" role="M5hS2">
-      <property role="1uS6qv" value="O" />
-      <property role="1uS6qo" value="Optional" />
+      <property role="1uS6qv" value="Optional" />
+      <property role="1uS6qo" value="O" />
     </node>
     <node concept="M4N5e" id="7_pOzxEiHre" role="M5hS2">
-      <property role="1uS6qv" value="C" />
-      <property role="1uS6qo" value="Conditional" />
+      <property role="1uS6qv" value="Conditional" />
+      <property role="1uS6qo" value="C" />
     </node>
   </node>
   <node concept="AxPO7" id="7_pOzxEiHrB">
@@ -92,12 +100,30 @@
     <property role="PDuV0" value="true" />
     <ref role="M4eZT" to="tpck:fKAOsGN" resolve="string" />
     <node concept="M4N5e" id="7_pOzxEiHrC" role="M5hS2">
-      <property role="1uS6qv" value="V" />
-      <property role="1uS6qo" value="Value" />
+      <property role="1uS6qv" value="Value" />
+      <property role="1uS6qo" value="V" />
     </node>
     <node concept="M4N5e" id="7_pOzxEiHrD" role="M5hS2">
-      <property role="1uS6qv" value="TLV" />
-      <property role="1uS6qo" value="TagLenghtValue" />
+      <property role="1uS6qv" value="TagLenghtValue" />
+      <property role="1uS6qo" value="TLV" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7_pOzxEiM67">
+    <property role="EcuMT" value="8744251291259838855" />
+    <property role="TrG5h" value="MESSAGE" />
+    <property role="19KtqR" value="true" />
+    <property role="34LRSv" value="msg" />
+    <property role="R4oN_" value="Dupa" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="PrWs8" id="7_pOzxEiM68" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="1TJgyj" id="7_pOzxEiM6s" role="1TKVEi">
+      <property role="IQ2ns" value="8744251291259838876" />
+      <property role="20lmBu" value="aggregation" />
+      <property role="20kJfa" value="numberOfStructure" />
+      <property role="20lbJX" value="1..n" />
+      <ref role="20lvS9" node="7_pOzxEiHqL" resolve="MessageStructure" />
     </node>
   </node>
   <node concept="1TIwiD" id="uVI9uE41au">

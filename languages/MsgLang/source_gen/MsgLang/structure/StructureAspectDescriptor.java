@@ -12,8 +12,8 @@ import org.jetbrains.mps.openapi.language.SAbstractConcept;
 import jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2;
 
 public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
+  /*package*/ final ConceptDescriptor myConceptMESSAGE = createDescriptorForMESSAGE();
   /*package*/ final ConceptDescriptor myConceptMessageStructure = createDescriptorForMessageStructure();
-  /*package*/ final ConceptDescriptor myConceptStructure = createDescriptorForStructure();
   private final LanguageConceptSwitch myIndexSwitch;
 
   public StructureAspectDescriptor() {
@@ -22,17 +22,17 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
 
   @Override
   public Collection<ConceptDescriptor> getDescriptors() {
-    return Arrays.asList(myConceptMessageStructure, myConceptStructure);
+    return Arrays.asList(myConceptMESSAGE, myConceptMessageStructure);
   }
 
   @Override
   @Nullable
   public ConceptDescriptor getDescriptor(SConceptId id) {
     switch (myIndexSwitch.index(id)) {
+      case LanguageConceptSwitch.MESSAGE:
+        return myConceptMESSAGE;
       case LanguageConceptSwitch.MessageStructure:
         return myConceptMessageStructure;
-      case LanguageConceptSwitch.Structure:
-        return myConceptStructure;
       default:
         return null;
     }
@@ -42,9 +42,19 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     return myIndexSwitch.index(c);
   }
 
+  private static ConceptDescriptor createDescriptorForMESSAGE() {
+    ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MsgLang", "MESSAGE", 0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7959d2386a4b2187L);
+    b.class_(false, false, true);
+    b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
+    b.origin("r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259838855");
+    b.version(2);
+    b.aggregate("numberOfStructure", 0x7959d2386a4b219cL).target(0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7959d2386a4ad6b1L).optional(false).ordered(true).multiple(true).origin("8744251291259838876").done();
+    b.alias("msg");
+    return b.create();
+  }
   private static ConceptDescriptor createDescriptorForMessageStructure() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MsgLang", "MessageStructure", 0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7959d2386a4ad6b1L);
-    b.class_(false, false, true);
+    b.class_(false, false, false);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/8744251291259819697");
     b.version(2);
@@ -52,18 +62,6 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.prop("Format", 0x7959d2386a4ad6bbL, "8744251291259819707");
     b.prop("Lenght", 0x7959d2386a4ad6c0L, "8744251291259819712");
     b.alias("Message");
-    return b.create();
-  }
-  private static ConceptDescriptor createDescriptorForStructure() {
-    ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MsgLang", "Structure", 0x4575325384d849a8L, 0x8c745ee559257f87L, 0x7bbb897aa10129eL);
-    b.class_(false, false, true);
-    b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
-    b.origin("r:7eca427c-4623-445b-81f9-e101bdf640f7(MsgLang.structure)/557241940443140766");
-    b.version(2);
-    b.prop("tag", 0x7bbb897aa1012a9L, "557241940443140777");
-    b.prop("length", 0x7bbb897aa1012acL, "557241940443140780");
-    b.prop("value", 0x7bbb897aa1012b0L, "557241940443140784");
-    b.alias("structure");
     return b.create();
   }
 }

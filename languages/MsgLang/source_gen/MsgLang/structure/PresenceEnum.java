@@ -7,9 +7,9 @@ import jetbrains.mps.internal.collections.runtime.ListSequence;
 import java.util.LinkedList;
 
 public enum PresenceEnum {
-  M("Mandatory", "M"),
-  O("Optional", "O"),
-  C("Conditional", "C");
+  Mandatory("M", "Mandatory"),
+  Optional("O", "Optional"),
+  Conditional("C", "Conditional");
 
   private final String myName;
   public String getName() {
@@ -28,9 +28,9 @@ public enum PresenceEnum {
   }
   public static List<PresenceEnum> getConstants() {
     List<PresenceEnum> list = ListSequence.fromList(new LinkedList<PresenceEnum>());
-    ListSequence.fromList(list).addElement(PresenceEnum.M);
-    ListSequence.fromList(list).addElement(PresenceEnum.O);
-    ListSequence.fromList(list).addElement(PresenceEnum.C);
+    ListSequence.fromList(list).addElement(PresenceEnum.Mandatory);
+    ListSequence.fromList(list).addElement(PresenceEnum.Optional);
+    ListSequence.fromList(list).addElement(PresenceEnum.Conditional);
     return list;
   }
   public static PresenceEnum getDefault() {
@@ -40,14 +40,14 @@ public enum PresenceEnum {
     if (value == null) {
       return PresenceEnum.getDefault();
     }
-    if (value.equals(PresenceEnum.M.getValueAsString())) {
-      return PresenceEnum.M;
+    if (value.equals(PresenceEnum.Mandatory.getValueAsString())) {
+      return PresenceEnum.Mandatory;
     }
-    if (value.equals(PresenceEnum.O.getValueAsString())) {
-      return PresenceEnum.O;
+    if (value.equals(PresenceEnum.Optional.getValueAsString())) {
+      return PresenceEnum.Optional;
     }
-    if (value.equals(PresenceEnum.C.getValueAsString())) {
-      return PresenceEnum.C;
+    if (value.equals(PresenceEnum.Conditional.getValueAsString())) {
+      return PresenceEnum.Conditional;
     }
     return PresenceEnum.getDefault();
   }
